@@ -203,21 +203,12 @@ medianas empresas.
 <a href="mailto:tu-correo@ejemplo.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/tu-usuario/">
+<a href="https://www.linkedin.com/in/kevin-elías-gonzalez-nuñez-b0a997347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/tpkevinx">
   <img src="https://img.shields.io/badge/GitHub-tpkevinx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-<br><br>
-
-<i>"La tecnología es solo una herramienta. En términos de llevar a las personas
-a trabajar juntas y motivarlas, el liderazgo es más importante."</i>
-
-<br>
-
-**— Steve Jobs**
 
 </div>
 
