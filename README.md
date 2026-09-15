@@ -148,16 +148,16 @@ Mi perfil está enfocado en la <strong>integración de soluciones tecnológicas 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tpkevinx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats">
+<!-- Fila 1: Estadísticas Avanzadas y Lenguajes Principales -->
+<img src="https://github-readme-stats.vercel.app/api?username=tpkevinx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="170" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpkevinx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages">
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=tpkevinx&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tpkevinx&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
+<!-- Fila 2: Tarjeta del Proyecto STAK -->
+<a href="https://github.com/tpkevinx/STAK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpkevinx&repo=STAK&theme=tokyonight&hide_border=true" alt="STAK Repo Card" />
+</a>
 
 </div>
 
